@@ -1,0 +1,18 @@
+[
+    {
+        "name":"greetings",
+        "value":"Simple CLI music player. Welcome, "
+    },
+    {
+        "name":"menu",
+        "value":"Menu\n1.Display music list"
+    },
+    {
+        "name":"current_track",
+        "value":"Current track: "
+    },
+    {
+        "name":"current_time",
+        "value":"Current time is "
+    }
+]
