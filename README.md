@@ -2,7 +2,7 @@
 > Dependencies:  
 > — pydub  
 > — ffmpeg  
-> — impleaudio 1.2.2  
+> — simpleaudio 1.2.2  
 
 
 Create "music" folder in project root with preferred tracks.   
