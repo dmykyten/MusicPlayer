@@ -3,3 +3,4 @@ __pycache__
 *.iml
 .git/
 .gitignore
+*.mp3
